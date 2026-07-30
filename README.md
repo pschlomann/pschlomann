@@ -7,7 +7,8 @@ My journey in computer science has led me to finding a specific focus in cyberse
 
 This GitHub account houses my projects working in the field of computer science, including cyber security, and also data science.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5538f50e-640b-45d4-bc32-c54092502b62" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+CompTIA Security+ Certification
+https://www.credly.com/badges/5538f50e-640b-45d4-bc32-c54092502b62/public_url
 
 <!--
 
