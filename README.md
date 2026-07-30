@@ -1,15 +1,15 @@
 # Hello, I'm Phillip
 <a href="https://www.linkedin.com/in/phillip-schlomann-1b0613296/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a student in the fields of data science and cybersecurity set to graduate in December 2026.
+
+My journey in computer science has led me to finding a specific focus in cybersecurity, and I am now eager to break into the field and practice my skills.
+
+This GitHub account houses my projects working in the field of computer science, including cyber security, and also data science.
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5538f50e-640b-45d4-bc32-c54092502b62" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
